@@ -45,4 +45,11 @@ Here are some ideas to get you started:
 - [YOUTUBE RECOMMENDATION ALGORITHM](https://vishalsheth4.medium.com/youtube-recommendation-a-5114e3091424)
 <br/>
 
+[![Vishal Sheth GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelCade&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=michaelcade&color=lightgrey)
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VishalSheth4.VishalSheth4)
