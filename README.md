@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Software developer with 3.5 years of experience in News, Retail, Cloud and Banking domain. I had completed my Masters degree in Computer Science and Engineering. </br>
+🌱 I’m a Software developer with 5+ years of experience in News, Retail, Cloud and Banking domain. I had completed my Masters degree in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=VishalSheth4&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Vishal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishalSheth4&layout=compact&langs_count=8&hide_border=true)
