@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🌱 I’m a Software developer with 5+ years of experience in News, Retail, Cloud and Banking domain. I had completed my Masters degree in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+
+Language :- Java | Python | JavaScript | </br>
+Framework :- Hibernate | Spring | SpringBoot | JPA | MVC | JUNIT | MOCKITO | </br>
+FrontEnd :- React.js | Angular.js | Power BI | </br>
+Database :- Oracle | Db2 | Sybase | Postgress | MongoDB |</br>
+Cloud :- Amazon | Azure | OCI | Terraform | Ansible | Docker | </br>
+Messaging :- Kafka | </br>
+Familiar with :- Load Balancer | API Gateway | REST-API | </br>
+
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=VishalSheth4&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Vishal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishalSheth4&layout=compact&langs_count=8&hide_border=true)
 <br />
