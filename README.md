@@ -41,7 +41,7 @@ Framework :- Hibernate | Spring | SpringBoot | JPA | MVC | JUNIT | MOCKITO | </b
 FrontEnd :- React.js | Angular.js | Power BI | </br>
 Database :- Oracle | Db2 | Sybase | Postgress | MongoDB |</br>
 Cloud :- Amazon | Azure | OCI | Terraform | Ansible | Docker | </br>
-Messaging :- Kafka | </br>
+Messaging :- Apache Kafka | Apache Spark </br>
 Familiar with :- Load Balancer | API Gateway | REST-API | </br>
 
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=VishalSheth4&show_icons=true&hide_border=true)&nbsp;&nbsp;
