@@ -33,7 +33,7 @@ PRACTISE GRAPH
 <br />
 
 ### About Me 🚀
-🌱 I’m a Senior Software developer with 5+ years of experience in News, Retail, Cloud and Banking domain. I had completed my Masters degree in Computer Science and Engineering. </br>
+🌱 I’m a Senior Software developer with 6+ years of experience in News, Retail, Cloud and Banking domain. I had completed my Masters degree in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things.   </br>
 
 Language :- Java | Python | JavaScript | </br>
